@@ -1,0 +1,10 @@
+.button{
+    width: 250px;
+    background-color: blue;
+    
+}
+
+.button:hover{
+    background-color: green;
+    cursor: default;
+}
